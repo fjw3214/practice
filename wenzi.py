@@ -11,7 +11,7 @@ pf= False  # 决定是否写入文件
 path=''
 arr=[]
 if pf:
-    path = "f:\\文字语录\\"
+    path = "E:\\文字语录\\"
     if os.path.exists(path):
         shutil.rmtree(path)
     os.mkdir(path)

@@ -4,7 +4,8 @@ from selenium import webdriver
 import io,sys
 import requests
 from lxml import etree
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding="utf8") #改变标准输出的默认
+from selenium.webdriver.common.by import By
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf8") #改变标准输出的默认
 
 def main_cont():
     arr=[]
@@ -37,15 +38,15 @@ def get_content(text):
      return txt
 
 def auto_send(context):
-    acount = 2487429967
-    passwd = 'wobushi666'
+    acount = 3232364965
+    passwd = '19990209fjw'
     driver = webdriver.Firefox()  # 获取火狐驱动
-    driver.get("https://user.qzone.qq.com/2487429967/311")
+    driver.get("https://user.qzone.qq.com/3232364965/311")
     driver.switch_to.frame("login_frame")  # 找到frame入口
-    driver.find_element_by_id("switcher_plogin").click()  # 点击登录
-    driver.find_element_by_id("u").send_keys(acount)  # 账号
-    driver.find_element_by_id("p").send_keys(passwd)  # 密码
-    driver.find_element_by_id("login_button").click()  # 点击登陆按钮
+    driver.find_element(By.ID,"switcher_plogin").click()  # 点击登录
+    driver.find_element(By.ID,"u").send_keys(acount)  # 账号
+    driver.find_element(By.ID,"p").send_keys(passwd)  # 密码
+    driver.find_element(By.ID,"login_button").click()  # 点击登陆按钮
     print("登录成功！")
     time.sleep(5)
     driver.switch_to.default_content()
@@ -57,11 +58,11 @@ def auto_send(context):
            # driver.find_element_by_xpath(".//*[@class='textinput textarea c_tx3']").click()
             time.sleep(0.5)
             print('@')
-            driver.find_element_by_css_selector(
+            driver.find_element(By.CSS_SELECTOR,
                 'div.textinput.textarea.c_tx2.input_focus.textinput_focus').send_keys(
                 context)
             print('文字输入成功')
-            driver.find_element_by_css_selector('a.btn-post.gb_bt.evt_click').click()
+            driver.find_element(By.CSS_SELECTORc,'a.btn-post.gb_bt.evt_click').click()
             print('发送成功！')
         except Exception as e:
             print(e)

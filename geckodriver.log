@@ -1,0 +1,118 @@
+'geckodriver' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+1647261157917	geckodriver	INFO	Listening on 127.0.0.1:52506
+1647261160936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52507" "-no-remote" "-profile" "C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofileYkMg5V"
+1647261161227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofileYkMg5V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52507/devtools/browser/ccd96d37-093c-4377-90ec-0c884dc2a292
+1647261163105	Marionette	INFO	Listening on port 52512
+1647261163600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://cm.qzonestyle.gtimg.cn/qzone/v8/core/interface_mini.js, line 71: unreachable code after return statement
+1647261175807	Marionette	INFO	Stopped listening on port 52512
+1647262464328	geckodriver	INFO	Listening on 127.0.0.1:63400
+1647262467352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63401" "-no-remote" "-profile" "C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofilePFxlTi"
+1647262467615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofilePFxlTi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63401/devtools/browser/1a74b3b7-5288-454e-98e2-bbde12398580
+1647262469214	Marionette	INFO	Listening on port 63407
+1647262469395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://cm.qzonestyle.gtimg.cn/qzone/v8/core/interface_mini.js, line 71: unreachable code after return statement
+1647262481908	Marionette	INFO	Stopped listening on port 63407
+1647262523372	geckodriver	INFO	Listening on 127.0.0.1:63537
+1647262526423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63538" "-no-remote" "-profile" "C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofilekKqgXn"
+1647262526684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofilekKqgXn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63538/devtools/browser/709555e7-d27f-402a-8964-7ac10a0ecd6c
+1647262528227	Marionette	INFO	Listening on port 63545
+1647262528465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61221.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 1505: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/dress/xextend.js,/qzone/v8/dress/data.js,/qzone/v8/dress/viewbase.js,/qzone/v8/dress/dditem.js,/qzone/v8/dress/menuview_v8.js,/qzone/v8/dress/weather.js,/qzone/v8/dress/visitors.js, line 640: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/ac/qzfl/appclientlib.js,/qzone/app/controls/pager/pager.js?max_age=999999&ver=20130607, line 241: unreachable code after return statement
+1647262541589	Marionette	INFO	Stopped listening on port 63545
+1647262542169	geckodriver	INFO	Listening on 127.0.0.1:63647
+1647262545221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63648" "-no-remote" "-profile" "C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofilenM1tqM"
+1647262545473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofilenM1tqM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63648/devtools/browser/783af753-e148-468a-9b94-7f58cf242155
+1647262546844	Marionette	INFO	Listening on port 63653
+1647262547263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647262554877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61221.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 1505: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/dress/xextend.js,/qzone/v8/dress/data.js,/qzone/v8/dress/viewbase.js,/qzone/v8/dress/dditem.js,/qzone/v8/dress/menuview_v8.js,/qzone/v8/dress/weather.js,/qzone/v8/dress/visitors.js, line 640: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/ac/qzfl/appclientlib.js,/qzone/app/controls/pager/pager.js?max_age=999999&ver=20130607, line 241: unreachable code after return statement
+1647262561626	Marionette	INFO	Stopped listening on port 63653
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647262562181	geckodriver	INFO	Listening on 127.0.0.1:63748
+1647262565236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63749" "-no-remote" "-profile" "C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofile2nA67c"
+1647262565495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofile2nA67c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63749/devtools/browser/b3b5a97d-8971-4dbe-8982-4da86d8c2889
+1647262567092	Marionette	INFO	Listening on port 63754
+1647262567283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647262574781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/migrate-plugin.js,/qzone/v8/engine/console-plus/console-plus.js,/qzone/v8/engine/request/request_61221.js,/qzone/v8/core/interface_mini.js?max_age=60628, line 1505: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/qzone/v8/dress/xextend.js,/qzone/v8/dress/data.js,/qzone/v8/dress/viewbase.js,/qzone/v8/dress/dditem.js,/qzone/v8/dress/menuview_v8.js,/qzone/v8/dress/weather.js,/qzone/v8/dress/visitors.js, line 640: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/photo/v7/js/common/qzone/common.js, line 4: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/animate/app_scroll.js, line 2: unreachable code after return statement
+JavaScript warning: https://qzonestyle.gtimg.cn/c/=/ac/qzfl/appclientlib.js,/qzone/app/controls/pager/pager.js?max_age=999999&ver=20130607, line 241: unreachable code after return statement
+1647262581506	Marionette	INFO	Stopped listening on port 63754
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647262582062	geckodriver	INFO	Listening on 127.0.0.1:63847
+1647262585104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63848" "-no-remote" "-profile" "C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofileBJR89B"
+1647262585358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofileBJR89B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63848/devtools/browser/90e0355e-c47b-4e21-a7f8-e4b3874ccd6a
+1647262586831	Marionette	INFO	Listening on port 63853
+1647262587151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647262598737	Marionette	INFO	Stopped listening on port 63853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1647262882263	geckodriver	INFO	Listening on 127.0.0.1:53693
+1647262885299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53694" "-no-remote" "-profile" "C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofileCtHoDn"
+1647262885553	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fjw\\AppData\\Local\\Temp\\rust_mozprofileCtHoDn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53694/devtools/browser/a2f2d854-28c5-441d-9a7f-86d910ea9a50
+1647262886950	Marionette	INFO	Listening on port 53700
+1647262887347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://xui.ptlogin2.qq.com"
+1647262900803	Marionette	INFO	Stopped listening on port 53700
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
